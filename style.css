@@ -1,0 +1,51 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+    padding: 150px 150px 0px 150px;
+}
+
+p {
+    text-align: center;
+    color: aliceblue;
+
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-align: center;
+    color: azure;
+    font-weight: 700;
+
+}
+
+.none {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100vh;
+    background-position: center;
+    padding: 0%;
+}
+
+#done {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
